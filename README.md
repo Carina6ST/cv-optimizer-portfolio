@@ -1,5 +1,5 @@
 # cv-optimizer-portfolio
-Digital Portofolio 
+# Digital Portofolio 
 This repository contains the development work for CV Optimizer. The goal of the system is to help job seekers tailor their CVs to specific job descriptions by parsing uploaded documents, extracting keywords, and scoring coverage.
 
 The repo is structured into frontend (React + Tailwind) and backend (Flask, Python) components, with supporting NLP libraries (spaCy, NLTK) for text analysis. Artefacts such as the use case diagram, Gantt chart are included in this portfolio, alongside links to the Jira board and final project reflection.
