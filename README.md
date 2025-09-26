@@ -137,3 +137,5 @@ Coordinating backend and frontend work through Jira and team check-ins.
 Re-prioritising when deadlines tightened, focusing on parsing and scoring features as core deliverables.
 
 Although usability testing was not achieved, I recognise this gap and would enforce smaller pilot testing earlier in future projects to reduce risk. This experience highlights leadership, adaptability, and reflective practice in line with the course outcomes.
+
+This portofolio were organised by Carina Nazarenco (Project Lead & Tester) as part of the coursework.
