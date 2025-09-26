@@ -30,11 +30,11 @@ These items form the working MVP for Task 2.
 
 2) Team Roles & Contributions
 
-Carina — Project Lead & Tester: project planning, QA, documentation.
+Carina - Project Lead & Tester: project planning, QA, documentation.
 
-Cristina — Backend Developer: Flask/FastAPI endpoints.
+Cristina - Backend Developer: Flask/FastAPI endpoints.
 
-Atanaska — Frontend Developer: React + Tailwind interface.
+Atanaska - Frontend Developer: React + Tailwind interface.
 
 This structure mirrors the repository organisation, with /backend and /frontend directories and a README tracking features and run steps.
 
@@ -55,20 +55,22 @@ POST /api/score: accepts {cvText, jdText}, tokenises with spaCy/NLTK, calculates
 Data Flow:
 CV file → /api/parse-cv → CV text → /api/score (with JD text) → coverage metrics → frontend highlights.
 
-This reflects the current repo “API (work in progress)” and the declared tech stack.
+This reflects the current repo “API (current)” and the declared tech stack.
 
 4) Use Case Diagram
 
 Actors: Job Seeker, Admin (optional).
 Use cases: Upload CV, Paste JD, Analyse Keywords, View Score & Suggestions, Download Report (MVP), Sign-up/Login (stub), Subscribe Premium (placeholder).
 
-(Diagram image placeholder here — e.g. usecase.png)
+Diagram image placeholder <img width="1600" height="960" alt="Use_case_diagram" src="https://github.com/user-attachments/assets/44b940f4-8bbe-4c55-b7f9-b980d7665a50" />
+
 
 5) Project Plan — Planned vs Actual
 
 The initial plan was a six-week Agile sprint framework (28 Jul → 20 Sep 2025). The figure below shows the original timeline alongside actual progress from the GitHub repo.
 
-(Insert Gantt chart image — e.g. task2_gantt_final.png)
+Gantt chart image <img width="1920" height="960" alt="Gantt_chart" src="https://github.com/user-attachments/assets/766c51dd-2540-427e-be33-33695336f5bb" />
+
 
 Planned (blue):
 
