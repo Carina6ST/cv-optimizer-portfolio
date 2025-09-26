@@ -1,6 +1,6 @@
 # cv-optimizer-portfolio
 **Code Repository:** [CV Optimizer GitHub](https://github.com/Carina6ST/cv-optimizer)  
-- **Jira Board:** [COW Project Board](https://cristinaaateaca.atlassian.net/jira/software/projects/COW/boards/67?atlOrigin=eyJpIjoiMmQwM2U0NDJkZjAzNDU1Yzk0NDIzOWMxYjAxZTg5MzYiLCJwIjoiaiJ9)  
+**Jira Board:** [COW Project Board](https://cristinaaateaca.atlassian.net/jira/software/projects/COW/boards/67?atlOrigin=eyJpIjoiMmQwM2U0NDJkZjAzNDU1Yzk0NDIzOWMxYjAxZTg5MzYiLCJwIjoiaiJ9)  
 # Digital Portofolio 
 This repository contains the development work for CV Optimizer. The goal of the system is to help job seekers tailor their CVs to specific job descriptions by parsing uploaded documents, extracting keywords, and scoring coverage.
 
